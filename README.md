@@ -16,7 +16,7 @@ This repository contains HTML, CSS, and JS files for my premium dark-themed blog
 
 ## 🌐 Hosting
 This blog is hosted using **GitHub Pages**:  
-👉 [Live Site](https://username.github.io/Syed-Moinuddin2025)
+👉 [Live Site](https://Syed-Moinuddin2026.github.io/Syed-Moinuddin2025)
 
 ## 📖 License
 This project is licensed under MIT License.
