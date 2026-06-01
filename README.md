@@ -9,13 +9,13 @@ This repository contains HTML, CSS, and JS files for my premium dark-themed blog
 - Responsive design for visitors
 
 ## 🌐 Live Demo (GitHub Pages)
-👉 [View Blog Preview](https://syed-moinuddin.github.io/Syed-Moinuddin2026)
+👉 [View Blog Preview]( https://syed-moinuddin2025.github.io/Syed-Moinuddin2026/)
 
 ## 🏠 Official Blog (MuseHub Creative)
 👉 [Visit MuseHub Creative](https://musehubcreative.blogspot.com)
 
 ## 📸 Screenshots
-![Homepage Preview](screenshots/homepage.png)
+![Homepage Preview](images/homepage.png)
 
 ## 📖 License
 This project is licensed under MIT License.
