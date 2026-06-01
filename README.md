@@ -15,7 +15,7 @@ This repository contains HTML, CSS, and JS files for my premium dark-themed blog
 👉 [Visit MuseHub Creative](https://musehubcreative.blogspot.com)
 
 ## 📸 Screenshots
-![Homepage Preview](images/homepage.png)
+![Homepage Preview]( https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2026/tree/main/images)
 
 ## 📖 License
 This project is licensed under MIT License.
